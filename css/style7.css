@@ -1,0 +1,43 @@
+body {
+    background-color: lightblue;
+    border-style: ridge;
+    margin-right: 10cm;
+    padding-left: 6cm;
+    margin-left: 5cm;
+}
+
+figcaption {
+    color: blueviolet;
+}
+
+h1, h2, h3, h3,h4 {
+color: maroon;
+}
+
+p{
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+div {
+    position: fixed;
+    left:0;
+    top: 0;
+    padding-left:5cm;
+    padding-top: 50px;
+    text-align: start;
+    color: maroon;
+}
+
+h4 {
+    padding-left: 25px;
+}
+
+img {
+    padding-top: 25px;
+}
+

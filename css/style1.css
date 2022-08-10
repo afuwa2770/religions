@@ -1,0 +1,48 @@
+body {
+    background-color: blanchedalmond;  
+    padding-left: 6cm; 
+    padding-right: 5cm;
+}
+
+h1, h2 {
+    color: maroon;
+    text-align: center;
+}
+
+figcaption {
+    color: blueviolet;
+    
+}
+
+p {
+   font-size: large;
+   text-align: start;
+   padding-left: 1cm; 
+   padding-right: 1cm;
+
+}
+
+a {
+   text-decoration: none;
+   color: green; 
+}
+
+figure {
+    float: left; 
+    
+}
+
+
+div {
+    position: fixed;
+    right:0 ;
+    top:0; 
+    padding-right: 1cm;
+    padding-top: 2cm; 
+    margin-left: 1px;
+}
+
+
+
+
+
